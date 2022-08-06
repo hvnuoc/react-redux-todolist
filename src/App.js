@@ -22,6 +22,7 @@ function App() {
         >
             <Title style={{ textAlign: "center" }}>TODO APP with REDUX</Title>
             <Filters />
+            {/* Hiển thị dấu gạch ngang */}
             <Divider />
             <TodoList />
         </div>
